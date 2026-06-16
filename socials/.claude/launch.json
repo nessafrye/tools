@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "socials",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["serve", "-l", "4321", "/Users/vanessa.frye/Documents/GitHub/design-hub/socials"],
+      "port": 4321
+    }
+  ]
+}
